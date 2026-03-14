@@ -12,7 +12,7 @@ This project analyzes 119,390 hotel booking records to understand the patterns a
 
 ## 📂 Dataset
 
-**Source:** [Hotel Booking Demand — Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download)
+**Source:** [Hotel Booking Demand- Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download)
 **Size:** 119,390 rows
 
 **Key attributes include:**
