@@ -1,16 +1,16 @@
-# 🏨 Hotel Booking Cancellation Analysis | MYSQL | Tableau
+#  Hotel Booking Cancellation Analysis | MYSQL | Tableau
 
-🔗 [View Live Dashboard](https://public.tableau.com/app/profile/suraj.shetty5379/viz/hotel_bookings_analysis/HotelBookingCancellationAnalysis?publish=yes)
+ [View Live Dashboard](https://public.tableau.com/app/profile/suraj.shetty5379/viz/hotel_bookings_analysis/HotelBookingCancellationAnalysis?publish=yes)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes 119,390 hotel booking records to understand the patterns and factors that drive booking cancellations. Using MySQL for data extraction and Tableau for visualization, the project explores how customer type, booking timing, market segment, seasonality, and deposit policies affect cancellation rates — uncovering insights that can help hotels reduce cancellations and improve operational planning.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Source:** [Hotel Booking Demand- Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download)
 **Size:** 119,390 rows
@@ -27,7 +27,7 @@ This project analyzes 119,390 hotel booking records to understand the patterns a
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -37,7 +37,7 @@ This project analyzes 119,390 hotel booking records to understand the patterns a
 
 ---
 
-## 🗂 Files in This Repository
+##  Files in This Repository
 
 | File | Description |
 |------|-------------|
@@ -47,7 +47,7 @@ This project analyzes 119,390 hotel booking records to understand the patterns a
 
 ---
 
-## 📊 SQL Analysis - Queries Covered
+##  SQL Analysis - Queries Covered
 
 The `analysis.sql` file contains 9 queries:
 
@@ -63,7 +63,7 @@ The `analysis.sql` file contains 9 queries:
 
 ---
 
-## 📈 Key Business Insights
+##  Key Business Insights
 
 ✔ **City hotels have a significantly higher cancellation rate (41.73%)** compared to resort hotels (27.76%)
 
@@ -81,7 +81,7 @@ The `analysis.sql` file contains 9 queries:
 
 ---
 
-## 🎛 Dashboard Views
+##  Dashboard Views
 
 The Tableau dashboard includes 7 interactive charts:
 
@@ -95,7 +95,7 @@ The Tableau dashboard includes 7 interactive charts:
 
 ---
 
-## 🎯 Project Purpose
+##  Project Purpose
 
 This project is part of my **Data Analytics portfolio** to demonstrate skills in SQL querying, data analysis, and business insight generation using Tableau. It reflects a real-world hospitality use case where data-driven decisions can directly reduce revenue loss from cancellations.
 
